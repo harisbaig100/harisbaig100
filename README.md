@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Haris Baig</h1>
+<h3 align="center">Senior React Native Engineer | Core Contributor | Mobile Architecture & Performance</h3>
 
-<!--
-**harisbaig100/harisbaig100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building scalable mobile applications used by millions across iOS and Android.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://harisbaig.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://calendar.app.google/UWTfMVAthSqEF7x79"><img src="https://img.shields.io/badge/Book%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/m-haris-baig-88a634146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 📱 Senior React Native Engineer with **10+ years of experience**
+- ⚛️ Expert in **React Native, TypeScript, Expo/EAS, Swift, Kotlin**
+- 🧠 Focused on **mobile architecture, performance, and scalability**
+- 🌍 Built apps used by **millions of users across industries**
+- 🧩 **React Native Core Contributor (Lean Core initiative)**
+- 🧊 **Arctic Code Vault Contributor (GitHub Archive Program 2020)**
+
+---
+
+### 🔥 Open Source Impact
+
+- Maintainer of **react-native-segmented-control**
+- Maintainer of **react-native-clipboard**
+- Contributor to **React Native Lean Core (Facebook initiative)**
+- Active contributor to React Native ecosystem and developer community
+
+---
+
+### 🛠️ Tech Stack
+
+**Mobile:** React Native, Expo, React Navigation, Reanimated  
+**Frontend:** TypeScript, React.js, Redux, Zustand  
+**Native:** Swift, Kotlin, Native Modules, BLE, Camera APIs  
+**Backend:** Node.js, GraphQL, REST APIs  
+**Performance:** Optimization, Offline-first, Memory, Startup Time  
+**CI/CD:** Fastlane, GitHub Actions, Expo EAS  
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/react-native-segmented-control/segmented-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=react-native-segmented-control&repo=segmented-control&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/react-native-clipboard/clipboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=react-native-clipboard&repo=clipboard&theme=algolia&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harisbaig100&show_icons=true&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisbaig100&theme=algolia&hide_border=true" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisbaig100&layout=compact&theme=algolia&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Currently Focused On
+
+- Scaling React Native applications for production
+- Performance optimization and native modules
+- Open-source contributions to React Native ecosystem
+
+---
+
+### ✨ Fun Fact
+
+JavaScript is single-threaded, but feels multi-threaded thanks to async/await 😉
+
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:harisbaig100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/m-haris-baig-88a634146/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
