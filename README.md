@@ -32,9 +32,9 @@
 
 ### 🔥 Open Source Contributions
 
-- Maintainer of **react-native-segmented-control**
-- Maintainer of **react-native-clipboard**
-- Contributor to **React Native Lean Core (Facebook initiative)**
+- Maintainer of [react-native-segmented-control](https://github.com/react-native-segmented-control/segmented-control) (core iOS component extracted from React Native)  
+- Maintainer of [react-native-clipboard](https://github.com/react-native-clipboard/clipboard) (migrated from React Native core to community)  
+- Contributor to [React Native Lean Core initiative](https://github.com/facebook/react-native/issues/23313)  
 - Active contributor to React Native ecosystem and developer community
 
 ---
