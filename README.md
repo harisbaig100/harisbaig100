@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://harisbaig.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://calendar.app.google/UWTfMVAthSqEF7x79"><img src="https://img.shields.io/badge/Book%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/m-haris-baig-88a634146/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://baig-the-coder-harisbaig100s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://calendar.app.google/UWTfMVAthSqEF7x79">
+    <img src="https://img.shields.io/badge/Book%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haris-baig-88a634146/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -16,15 +22,15 @@
 ### 🚀 About Me
 
 - 📱 Senior React Native Engineer with **10+ years of experience**
-- ⚛️ Expert in **React Native, TypeScript, Expo/EAS, Swift, Kotlin**
-- 🧠 Focused on **mobile architecture, performance, and scalability**
-- 🌍 Built apps used by **millions of users across industries**
+- ⚛️ Specialized in **React Native, TypeScript, Expo/EAS, Swift, Kotlin**
+- 🧠 Focused on **mobile architecture, performance, and scalable systems**
+- 🌍 Built applications used by **millions of users globally**
 - 🧩 **React Native Core Contributor (Lean Core initiative)**
 - 🧊 **Arctic Code Vault Contributor (GitHub Archive Program 2020)**
 
 ---
 
-### 🔥 Open Source Impact
+### 🔥 Open Source Contributions
 
 - Maintainer of **react-native-segmented-control**
 - Maintainer of **react-native-clipboard**
@@ -60,8 +66,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisbaig100&show_icons=true&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisbaig100&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harisbaig100&show_icons=true&theme=algolia&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harisbaig100&theme=algolia&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +78,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisbaig100&layout=compact&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisbaig100&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -94,7 +103,7 @@ JavaScript is single-threaded, but feels multi-threaded thanks to async/await �
   <a href="mailto:harisbaig100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-haris-baig-88a634146/">
+  <a href="https://www.linkedin.com/in/haris-baig-88a634146/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
